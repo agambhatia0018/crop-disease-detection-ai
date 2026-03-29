@@ -117,7 +117,7 @@ Example:
 
 ## 👨‍💻 Author
 
-**Agam Bhatia**
+**Agam Bhatia**  
 **Rudraksh Singh**
 
 ---
