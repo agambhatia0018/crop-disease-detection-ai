@@ -1,6 +1,0 @@
-streamlit
-numpy
-matplotlib
-Pillow
-h5py
-tensorflow-cpu==2.11.0
